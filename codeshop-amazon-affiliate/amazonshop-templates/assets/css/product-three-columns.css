@@ -1,0 +1,107 @@
+.amazonshop-header-title {
+	margin-left: 1%;
+	}	
+.caaps-amazon-products > li {
+    /*width: 200px;*/
+	width: 30%;
+    display: inline-block;
+	text-align: center;
+    vertical-align: top;
+    *display: inline;
+    *zoom: 1;
+	}
+.caaps-amazon-products li img.smallimage {
+	height: 75px;
+	margin: 0 auto;
+    }	
+.caaps-amazon-products li img.mediumimage {
+	height: 160px;
+	margin: 0 auto;
+    }
+.caaps-amazon-products li img.largeimage {
+	height: 500px;
+	margin: 0 auto;
+    }		
+.caaps-amazonbuy-btn {
+	text-align: center;
+	margin-top: 10px;
+	}	
+.caaps-product-title {
+	text-align: center;
+	}	
+.caaps-price {
+	text-align: center;
+	}	
+.caaps-breadcrumb {
+	padding: 0 0 3% 1%;
+	border-bottom: 1px solid #eee;	
+	}
+.caaps-showing-products-count {
+	margin: 3% 1%;
+	}	
+.page-numbers {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+   }
+
+.page-numbers li {
+	display: inline;
+	}
+.page-numbers li a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+	border-radius: 5px;
+	transition: background-color .3s;
+    }
+.page-numbers li a.active {
+    background-color: #4CAF50;
+    color: white;
+	border-radius: 5px;
+    }
+
+.page-numbers li a:hover:not(.active) {
+	background-color: #ddd;
+	}	
+.caaps-pgination {
+	width: 90%;
+	margin: 0 auto;
+	}				
+	/* Tweentyfourteen Theme Fixes */
+.caaps-twentyfourteen div.caaps-main-products-wrapper,
+.caaps-twentyfourteen .caaps-breadcrumb,
+.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 30%;
+	}
+	/* Tweentyseventeen Theme Fixes */
+.caaps-twentyseventeen.has-sidebar:not(.error404) #primary {
+	width: 74%;
+}	
+.caaps-twentyseventeen.has-sidebar #secondary {
+	width: 20%;	
+	}			
+		
+@media screen and (max-width: 640px) {
+	.caaps-amazon-products li {
+		width: 100%;
+		text-align: center;
+	}
+	.caaps-showing-products-count,
+	.amazonshop-header-title,
+	.caaps-breadcrumb,
+	.caaps-pgination {
+		text-align: center;
+	}
+	/* Tweentyfourteen Theme Fixes */
+	.caaps-twentyfourteen div.caaps-main-products-wrapper,
+	.caaps-twentyfourteen .caaps-breadcrumb,
+	.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 0;
+	}	
+	/* Tweentyseventeen Theme Fixes */
+  .caaps-twentyseventeen.has-sidebar #secondary {
+	  width: auto;
+	  }					  	  	
+	
+}

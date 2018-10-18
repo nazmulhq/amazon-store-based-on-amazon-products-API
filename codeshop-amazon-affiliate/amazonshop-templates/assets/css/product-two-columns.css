@@ -1,0 +1,106 @@
+.amazonshop-header-title {
+	margin-left: 1%;
+	}	
+.caaps-amazon-products li {
+    /*width: 250px;*/
+	width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    *display: inline;
+    *zoom: 1;
+}
+.caaps-amazon-products li img.smallimage {
+	height: 75px;
+	margin: 0 auto;
+    }	
+.caaps-amazon-products li img.mediumimage {
+	height: 160px;
+	margin: 0 auto;
+    }
+.caaps-amazon-products li img.largeimage {
+	height: 500px;
+	margin-bottom: 2%;
+    }			
+.caaps-image-wrapper {
+	text-align: center; 
+	}	
+.caaps-amazonbuy-btn {
+	text-align: center;
+	margin-top: 10px;
+	}	
+h4.caaps-product-title {
+	text-align: center;
+	margin: 5px 0;
+	}	
+.caaps-price {
+	text-align:center;
+	}	
+.caaps-amazonbuy-btn {
+	}	
+.caaps-breadcrumb {
+	padding: 0 0 3% 1%;
+	border-bottom: 1px solid #eee;	
+	}
+.caaps-showing-products-count {
+	margin: 3% 1%;
+	}	
+.caaps-pgination {
+	text-align: center;
+	}	
+.page-numbers {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+   }
+
+.page-numbers li {
+	display: inline;
+	}
+.page-numbers li a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+	border-radius: 5px;
+	transition: background-color .3s;
+    }
+.page-numbers li a.active {
+    background-color: #4CAF50;
+    color: white;
+	border-radius: 5px;
+    }
+
+.page-numbers li a:hover:not(.active) {
+	background-color: #ddd;
+	}	
+.caaps-pgination {
+	width: 90%;
+	margin: 0 auto;
+	}				
+    /* Tweentyfourteen Theme Fixes */
+.caaps-twentyfourteen div.caaps-main-products-wrapper,
+.caaps-twentyfourteen .caaps-breadcrumb,
+.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 30%;
+	}	
+.caaps-twentyfourteen div.caaps-pgination {
+	margin-bottom: 3%;
+	}	
+			
+@media screen and (max-width: 640px) {
+	.caaps-amazon-products li {
+		width: 100%;
+		text-align: center;
+	}
+	/* Tweentyfourteen Theme Fixes */
+	.caaps-twentyfourteen div.caaps-main-products-wrapper,
+	.caaps-twentyfourteen .caaps-breadcrumb,
+	.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 0;
+	}	
+  .caaps-showing-products-count,
+  .amazonshop-header-title,
+  .caaps-breadcrumb {
+	  text-align: center;	 
+	  }		
+		
+}

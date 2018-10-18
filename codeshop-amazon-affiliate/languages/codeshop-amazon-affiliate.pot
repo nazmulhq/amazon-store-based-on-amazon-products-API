@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-05 18:14+0600\n"
+"PO-Revision-Date: 2017-09-05 18:15+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: amazonshop-templates\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: codeshop-amazon-affiliate.php\n"
+
+#: admin/views/add_amazonshop_submenu_displayoptions_callback.php:4
+#: admin/views/add_amazonshop_submenu_settings_callback.php:4
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/views/addby_asin_callback.php:14
+#: admin/views/addby_kword_callback.php:63
+#: admin/views/caaps-addproducts-withpost-container.php:101
+msgid "Search"
+msgstr ""
+
+#: admin/views/addby_kword_callback.php:50
+#: admin/views/caaps-addproducts-withpost-container.php:87
+msgid "What is Sort Values"
+msgstr ""
+
+#: admin/views/addedproducts_display_callback.php:24
+msgid "Remove Selected Products"
+msgstr ""
+
+#: admin/views/addedproducts_display_callback.php:28
+#: admin/views/caaps_display_response_results.php:45
+msgid "Select / De-Select All Products"
+msgstr ""
+
+#: admin/views/caaps_display_response_results.php:41
+msgid "Add Selected Products"
+msgstr ""
+
+#: admin/views/caaps_display_response_results.php:93
+#: admin/views/caaps_display_response_thickbox_results.php:62
+#: amazonshop-templates/product-four-columns.php:84
+#: amazonshop-templates/product-one-column.php:81
+#: amazonshop-templates/product-three-columns.php:79
+#: amazonshop-templates/product-two-columns.php:85
+msgid "No Products Found"
+msgstr ""
+
+#: admin/views/caaps_display_response_thickbox_results.php:12
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/views/caaps_display_response_thickbox_results.php:16
+msgid "Check / Uncheck Products"
+msgstr ""
+
+#: includes/caaps-amazon-addproducts.class.php:24
+#: includes/caaps-amazon-shop.class.php:59
+msgid "Select Country"
+msgstr ""
+
+#: includes/caaps-amazon-addproducts.class.php:30
+msgid "Search By Keyword"
+msgstr ""
+
+#: includes/caaps-amazon-addproducts.class.php:36
+msgid "Search By ASIN(s)"
+msgstr ""
+
+#: includes/caaps-amazon-addproducts.class.php:43
+msgid "Products - Search Results"
+msgstr ""
+
+#: includes/caaps-amazon-addproducts.class.php:51
+msgid "Added Products"
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:70
+msgid "Added products successfully."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:71
+msgid "Removed selected products successfully."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:72
+msgid "Adding selected products...Please wait."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:73
+msgid "Removing selected products...Please wait."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:74
+msgid "No products selected to add."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:75
+msgid "No products selected to remove."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:76
+#: includes/caaps-post-products.class.php:46
+msgid "Searching Products...Please Wait."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:77
+#: includes/caaps-post-products.class.php:47
+msgid "Sort Results"
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:95
+msgid ""
+"Search Keyword Required. Please input your search text / keyword to get "
+"results."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:130
+msgid ""
+"ASIN(s) Required. Please input your each ASIN per line to get search results."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:162
+msgid "Access Key Required."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:165
+msgid "Secret Access Key Required."
+msgstr ""
+
+#: includes/caaps-amazon-ajax-handler.class.php:168
+msgid "Associate ID Required."
+msgstr ""
+
+#: includes/caaps-amazon-response-process.class.php:27
+msgid "AMAZON ERROR CODE: "
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:24
+msgid "Amazon Products"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:25
+msgid "Amazon Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:26
+#: includes/caaps-amazon-shop-posttype.class.php:27
+msgid "CodeShop"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:28
+#: includes/caaps-amazon-shop-posttype.class.php:29
+msgid "Add New Products"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:30
+msgid "New Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:31
+msgid "Edit Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:32
+msgid "View Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:33
+msgid "All Products"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:34
+msgid "Search Amazon Products"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:35
+msgid "Parent Products:"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:36
+msgid "No products found."
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:37
+msgid "No products found in Trash."
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:38
+msgid "Product Cover Image"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:39
+msgid "Set product image"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:40
+msgid "Remove product image"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:41
+msgid "Use as product image"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:42
+msgid "Product archives"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:43
+msgid "Insert into Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:44
+msgid "Uploaded to this Product"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:45
+msgid "Filter products list"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:46
+msgid "Products list navigation"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:47
+msgid "Products list"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:76
+#: includes/caaps-amazon-shop-posttype.class.php:86
+msgid "Categories"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:77
+msgid "Category"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:78
+msgid "Search Categories"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:79
+msgid "All Categories"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:80
+msgid "Parent Category"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:81
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:82
+msgid "Edit Category"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:83
+msgid "Update Category"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:84
+msgid "Add New Category"
+msgstr ""
+
+#: includes/caaps-amazon-shop-posttype.class.php:85
+msgid "New Category Name"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:51
+msgid "CodeShop Amazon Affiliate Settings"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:53
+msgid "Access Key ID"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:55
+msgid "Secret Access Key"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:57
+msgid "Associate ID"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:64
+msgid "CodeShop Amazon Affiliate Display Options"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:66
+msgid "Products Title Length"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:68
+msgid "Products Buy Button Text"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:71
+msgid "Homepage Products Display Template"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:73
+msgid "Posts Page Products Display Template"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:75
+msgid "Category Page Products Display Template"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:78
+msgid "Set Image Size ( Four Columns Template)"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:81
+msgid "Set Image Size ( Three Columns Template)"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:84
+msgid "Set Image Size ( Two Columns Template)"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:87
+msgid "Set Image Size ( One Column Template)"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:92
+msgid "Products Cache Duration"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:94
+msgid "Show Last Cached Time"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:108
+msgid ""
+"Product title characters length can be shorten, put any valid positive "
+"number, any value equals 0 or less than 0 will show full product title "
+"length. Sometimes longer product title names can break products display "
+"layout so you can make them shorter as your required."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:114
+msgid ""
+"As default products buy button text AMAZON BUY will be shown to users. Set "
+"any other text what you want to show to users."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:137
+msgid ""
+"When you set your homepgae Amazon Shop then all homepage products display "
+"will use this template."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:157
+msgid "All posts page products display will use this template."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:176
+msgid "All category page products display will use this template."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:210
+msgid ""
+"Products API cache data always make faster your website to show products "
+"information from your server instead calling API data from remote server, "
+"but maximum 1 Day (24 Hours) default cache duration is fine and if you "
+"change this value to cache for longer days then better you should check to "
+"show last cahced time below so users can understand about display price "
+"since amazon products price may change frequently so if you cache longer "
+"days then amazon updated price will not be shown as product latest price "
+"until cache duarion expired. All cached data will be expired as your setting "
+"cached day(s) are over and new products information will be fetched "
+"automatically."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:217
+msgid ""
+"If this box is checked then last cached time will display into front product "
+"pages with each product price so users can know the last time display price "
+"when it was cached. If last checked information not shown with products then "
+"those have been fetched and cached earlier so wait until cache duarion "
+"setting above expired then products will be fetched and cached again then "
+"last cached time will be shown."
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:265
+#: includes/caaps-amazon-shop.class.php:275
+msgid "CodeShop Amazon Affiliate"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:266
+msgid "Display Options"
+msgstr ""
+
+#: includes/caaps-amazon-shop.class.php:276
+msgid "Settings"
+msgstr ""
+
+#: includes/caaps-amazon-shortcode.class.php:58
+msgid "No products added with post to show."
+msgstr ""
+
+#: includes/caaps-post-products.class.php:43
+msgid "Shortcode created successfully."
+msgstr ""
+
+#: includes/caaps-post-products.class.php:44
+msgid "Creating Shortcode...Please wait."
+msgstr ""
+
+#: includes/caaps-post-products.class.php:45
+msgid "Please select product to create Shortcode."
+msgstr ""
+
+#: includes/caaps-template-helper.class.php:375
+msgid "Page"
+msgstr ""

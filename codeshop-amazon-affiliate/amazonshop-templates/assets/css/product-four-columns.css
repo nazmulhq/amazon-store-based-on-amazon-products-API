@@ -1,0 +1,93 @@
+#main {
+	margin-bottom: 3%;
+	}
+.amazonshop-header-title {
+	margin-left: 1%;
+	}		
+.caaps-amazon-products li {
+	width: 23%;
+    display: inline-block;
+	text-align: center;
+    vertical-align: top;
+    *display: inline;
+    *zoom: 1;
+    }
+.caaps-amazonbuy-btn {
+	margin-top: 10px;
+	}	
+.caaps-amazon-products li img.smallimage {
+	height: 75px;
+	margin: 0 auto;
+    }	
+.caaps-amazon-products li img.mediumimage {
+	height: 160px;
+	margin: 0 auto;
+    }
+.caaps-amazon-products li img.largeimage {
+	height: 500px;
+	margin: 0 auto;
+    }	
+.caaps-breadcrumb {
+	padding: 0 0 3% 1%;
+	border-bottom: 1px solid #eee;	
+	}
+.caaps-showing-products-count {
+	margin: 3% 1%;
+	}	
+
+.page-numbers {
+    display: inline-block;
+    padding: 0;
+    margin: 0;	
+   }
+
+.page-numbers li {
+	display: inline;
+	}
+.page-numbers li a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+	border-radius: 5px;
+	transition: background-color .3s;
+    }
+.page-numbers li a.active {
+    background-color: #4CAF50;
+    color: white;
+	border-radius: 5px;
+    }	
+.page-numbers li a:hover:not(.active) {
+	background-color: #ddd;
+	}
+.caaps-pgination {
+	width: 90%;
+	margin: 0 auto;
+	}				
+	/* Tweentyfourteen Theme Fixes */
+.caaps-twentyfourteen div.caaps-main-products-wrapper,
+.caaps-twentyfourteen .caaps-breadcrumb,
+.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 30%;
+	}	
+		
+@media screen and (max-width: 640px) {
+	.caaps-amazon-products li {
+		width: 100%;
+		text-align: center;
+	}
+	.amazonshop-header-title,
+	.caaps-showing-products-count,
+	.caaps-breadcrumb,
+	.caaps-pgination {
+		text-align: center;
+	}
+	.caaps-amazonbuy-btn {
+		margin-bottom: 5%;
+	}
+	/* Tweentyfourteen Theme Fixes */
+	.caaps-twentyfourteen div.caaps-main-products-wrapper,
+	.caaps-twentyfourteen .caaps-breadcrumb,
+	.caaps-twentyfourteen .caaps-showing-products-count {
+	margin-left: 0;
+	}			
+}
